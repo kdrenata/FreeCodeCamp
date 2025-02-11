@@ -1,5 +1,5 @@
-# :link:  FreeCodeCamp
-
+# FreeCodeCamp Projects
+## :link: Project Links:
 <!-- HTML & CSS -->
 <details open>
 <summary>
