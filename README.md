@@ -8,4 +8,6 @@
 
 1. **Cat Photo App**  
    [View Project](https://kdrenata.github.io/FreeCodeCamp/01-ResponsiveWebDesign/01-CatPhotoApp/)
-    
+
+2. **Cafe Menu**  
+   [View Project](https://kdrenata.github.io/FreeCodeCamp/01-ResponsiveWebDesign/02-CafeMenu/)
