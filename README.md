@@ -12,5 +12,8 @@
 2. **Cafe Menu**  
    [View Project](https://kdrenata.github.io/FreeCodeCamp/01-ResponsiveWebDesign/02-CafeMenu/)
 
+3. **Set of Colored Markers**  
+   [View Project](https://kdrenata.github.io/FreeCodeCamp/01-ResponsiveWebDesign/03-SetOfColoredMarkers/)
+
 4. **Registration Form**  
    [View Project](https://kdrenata.github.io/FreeCodeCamp/01-ResponsiveWebDesign/04-RegistrationForm/)
