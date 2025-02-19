@@ -17,3 +17,6 @@
 
 4. **Registration Form**  
    [View Project](https://kdrenata.github.io/FreeCodeCamp/01-ResponsiveWebDesign/04-RegistrationForm/)
+
+5. **Survey Form**  
+   [View Project](https://kdrenata.github.io/FreeCodeCamp/01-ResponsiveWebDesign/05-SurveyForm/)
